@@ -12,5 +12,5 @@ email_table.mjml - с таблицами, более стабильная раз
 # Тёмная тема меняет стили в gmail: </br>
 <img src="https://raw.githubusercontent.com/c0derec0de/email_project/main/photo_2026-06-04_11-12-38.jpg" width="300" height="600">
 
-# Рамблер сам масштабирует изображение: </br>
+# Рамблер масштабирует фоновое изображение в карточках: </br>
 <img src="https://raw.githubusercontent.com/c0derec0de/email_project/main/photo_2026-06-04_11-20-23.jpg" width="600" height="600">
