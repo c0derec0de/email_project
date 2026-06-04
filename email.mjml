@@ -1,0 +1,424 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Helvetica" color="white" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="black">
+   <mj-wrapper padding="20px 20px 0 20px">
+<mj-section
+  padding="20px 20px"
+  background-color="#151515"
+  border-radius="16px"
+>
+  <mj-column vertical-align="middle" padding="0">
+    <mj-image
+      src="https://raw.githubusercontent.com/c0derec0de/email_project/main/logo.png"
+      width="150px"
+      height="24px"
+      padding="0"
+      align="left"
+      alt="Logo"
+    />
+  </mj-column>
+
+  <mj-column vertical-align="middle" padding="0">
+    <mj-text padding="0" align="right">
+      <a href="https://telegram.com"
+         style="text-decoration:none;display:inline-block;vertical-align:middle;margin-right:16px;">
+        <img
+          src="https://raw.githubusercontent.com/c0derec0de/email_project/main/x24_tg.png"
+          width="24"
+          height="24"
+          alt="telegram"
+          style="display:block;"
+        />
+      </a>
+
+      <a href="https://vk.com"
+         style="text-decoration:none;display:inline-block;vertical-align:middle;">
+        <img
+          src="https://raw.githubusercontent.com/c0derec0de/email_project/main/x24_vk.png"
+          width="24"
+          height="24"
+          alt="vk"
+          style="display:block;"
+        />
+      </a>
+    </mj-text>
+  </mj-column>
+</mj-section>
+</mj-wrapper>
+    <mj-wrapper padding="8px 20px">
+      <mj-section
+        padding="20px 20px"
+        background-color="#151515"
+        border-radius="16px"
+      >
+        <mj-column padding="0 0 20px 0">
+          <mj-text padding="0">
+            <h1 font-size="28px" font-weight="700" line-height="36px">
+              Дайджест июня
+            </h1>
+            <p font-size="16px" line-height="24px">
+              Пять лучших пользовательских материалов за месяц
+            </p>
+          </mj-text>
+          <mj-hero
+            padding-top="20px"
+            background-url="https://raw.githubusercontent.com/c0derec0de/email_project/main/pic1.png"
+            background-width="560px"
+            background-height="215px"
+            border-radius="16px"
+          >
+            <mj-text padding="0 20px">
+              <span
+                style="color: #ff7477 "
+                >новость</span
+              >
+              <h2
+                style="
+                  font-size: 22px;
+                  font-weight: 700;
+                  line-height: 26px;
+                  margin: 8px 0;
+                "
+              >
+                Топ 10 популярных российских современных художников представляют
+                своё видение будущего через 7 лет
+              </h2>
+              <p
+                style="
+                  color: #737373;
+                  font-size: 14px;
+                  line-height: 18px;
+                  margin: 0;
+                "
+              >
+                Текст анонса в 2 строки<br />
+                Текст анонса в 2 строки
+              </p>
+            </mj-text>
+            <mj-social
+              vertical-align="bottom"
+              align="left"
+              icon-size="16px"
+              mode="horizontal"
+            >
+              <mj-social-element
+                padding-right="5px"
+                src="https://raw.githubusercontent.com/c0derec0de/email_project/main/Frame.png"
+                href="."
+                alt="likes"
+                color="#00FF0A"
+                padding="0 5px 0 2px"
+                >127</mj-social-element
+              >
+              <mj-social-element
+                padding="0 5px 0 12px"
+                src="https://raw.githubusercontent.com/c0derec0de/email_project/main/x16_eye_opened.png"
+                href="."
+                alt="views"
+                color="#737373"
+                >587</mj-social-element
+              >
+              <mj-social-element
+                padding="0 5px 0 12px"
+                src="https://raw.githubusercontent.com/c0derec0de/email_project/main/x16_comments.png"
+                href="."
+                alt="comments"
+                color="#737373"
+                >14</mj-social-element
+              >
+            </mj-social>
+          </mj-hero>
+        <mj-hero
+            padding-top="8px"
+            background-url="https://raw.githubusercontent.com/c0derec0de/email_project/main/pic2.png"
+            background-width="560px"
+            background-height="215px"
+            border-radius="16px"
+          >
+            <mj-text padding="0 20px">
+              <span
+                style="color: #70E13E "
+                >статья</span
+              >
+              <h2
+                style="
+                  font-size: 22px;
+                  font-weight: 700;
+                  line-height: 26px;
+                  margin: 8px 0;
+                "
+              >
+                «Операционные проблемы Worldcoin огромны» — Сэм Альтман
+              </h2>
+              <p
+                style="
+                  color: #737373;
+                  font-size: 14px;
+                  line-height: 18px;
+                  margin: 0;
+                "
+              >
+                Текст анонса в 1 строку
+              </p>
+            </mj-text>
+            <mj-social
+              vertical-align="bottom"
+              align="left"
+              icon-size="16px"
+              mode="horizontal"
+            >
+              <mj-social-element
+                padding-right="5px"
+                src="https://raw.githubusercontent.com/c0derec0de/email_project/main/Frame.png"
+                href="."
+                alt="likes"
+                color="#00FF0A"
+                padding="0 5px 0 2px"
+                >127</mj-social-element
+              >
+              <mj-social-element
+                padding="0 5px 0 12px"
+                src="https://raw.githubusercontent.com/c0derec0de/email_project/main/x16_eye_opened.png"
+                href="."
+                alt="views"
+                color="#737373"
+                >587</mj-social-element
+              >
+              <mj-social-element
+                padding="0 5px 0 12px"
+                src="https://raw.githubusercontent.com/c0derec0de/email_project/main/x16_comments.png"
+                href="."
+                alt="comments"
+                color="#737373"
+                >14</mj-social-element
+              >
+            </mj-social>
+          </mj-hero>
+        <mj-hero
+            padding-top="8px"
+            background-url="https://raw.githubusercontent.com/c0derec0de/email_project/main/pic3.png"
+            background-width="560px"
+            background-height="215px"
+            border-radius="16px"
+          >
+            <mj-text padding="0 20px">
+              <span
+                style="color: #ff7477 "
+                >новость</span
+              >
+              <h2
+                style="
+                  font-size: 22px;
+                  font-weight: 700;
+                  line-height: 26px;
+                  margin: 8px 0;
+                "
+              >
+                Основатель Multicoin Capital сравнил развитие NFT с эволюцией веб-страниц Интернета
+              </h2>
+              <p
+                style="
+                  color: #737373;
+                  font-size: 14px;
+                  line-height: 18px;
+                  margin: 0;
+                "
+              >
+                Текст анонса в 1 строку
+              </p>
+            </mj-text>
+            <mj-social
+              vertical-align="bottom"
+              align="left"
+              icon-size="16px"
+              mode="horizontal"
+            >
+              <mj-social-element
+                padding-right="5px"
+                src="https://raw.githubusercontent.com/c0derec0de/email_project/main/Frame.png"
+                href="."
+                alt="likes"
+                color="#00FF0A"
+                padding="0 5px 0 2px"
+                >127</mj-social-element
+              >
+              <mj-social-element
+                padding="0 5px 0 12px"
+                src="https://raw.githubusercontent.com/c0derec0de/email_project/main/x16_eye_opened.png"
+                href="."
+                alt="views"
+                color="#737373"
+                >587</mj-social-element
+              >
+              <mj-social-element
+                padding="0 5px 0 12px"
+                src="https://raw.githubusercontent.com/c0derec0de/email_project/main/x16_comments.png"
+                href="."
+                alt="comments"
+                color="#737373"
+                >14</mj-social-element
+              >
+            </mj-social>
+          </mj-hero>
+         <mj-hero
+               padding-top="8px"
+            background-url="https://raw.githubusercontent.com/c0derec0de/email_project/main/pic4.png"
+            background-width="560px"
+            background-height="215px"
+            border-radius="16px"
+          >
+            <mj-text padding="0 20px">
+              <span
+                style="color: #ff7477 "
+                >новость</span
+              >
+              <h2
+                style="
+                  font-size: 22px;
+                  font-weight: 700;
+                  line-height: 26px;
+                  margin: 8px 0;
+                "
+              >
+                В рекламе фильма спрятали 5500 NFT от Леброна Джеймса
+              </h2>
+              <p
+                style="
+                  color: #737373;
+                  font-size: 14px;
+                  line-height: 18px;
+                  margin: 0;
+                "
+              >
+                Текст анонса в 1 строку
+              </p>
+            </mj-text>
+            <mj-social
+              vertical-align="bottom"
+              align="left"
+              icon-size="16px"
+              mode="horizontal"
+            >
+              <mj-social-element
+                padding-right="5px"
+                src="https://raw.githubusercontent.com/c0derec0de/email_project/main/Frame.png"
+                href="."
+                alt="likes"
+                color="#00FF0A"
+                padding="0 5px 0 2px"
+                >127</mj-social-element
+              >
+              <mj-social-element
+                padding="0 5px 0 12px"
+                src="https://raw.githubusercontent.com/c0derec0de/email_project/main/x16_eye_opened.png"
+                href="."
+                alt="views"
+                color="#737373"
+                >587</mj-social-element
+              >
+              <mj-social-element
+                padding="0 5px 0 12px"
+                src="https://raw.githubusercontent.com/c0derec0de/email_project/main/x16_comments.png"
+                href="."
+                alt="comments"
+                color="#737373"
+                >14</mj-social-element
+              >
+            </mj-social>
+          </mj-hero>
+          <mj-hero
+          padding-top="8px"
+            background-url="https://raw.githubusercontent.com/c0derec0de/email_project/main/pic5.png"
+            background-width="560px"
+            background-height="215px"
+            border-radius="16px"
+          >
+            <mj-text padding="0 20px">
+              <span
+                style="color: #ff7477 "
+                >новость</span
+              >
+              <h2
+                style="
+                  font-size: 22px;
+                  font-weight: 700;
+                  line-height: 26px;
+                  margin: 8px 0;
+                "
+              >
+                Глава Coinbase назвал самую важную криптовалюту 
+              </h2>
+              <p
+                style="
+                  color: #737373;
+                  font-size: 14px;
+                  line-height: 18px;
+                  margin: 0;
+                "
+              >
+                Текст анонса в 2 строки<br />
+                Текст анонса в 2 строки
+              </p>
+            </mj-text>
+            <mj-social
+              vertical-align="bottom"
+              align="left"
+              icon-size="16px"
+              mode="horizontal"
+            >
+              <mj-social-element
+                padding-right="5px"
+                src="https://raw.githubusercontent.com/c0derec0de/email_project/main/Frame.png"
+                href="."
+                alt="likes"
+                color="#00FF0A"
+                padding="0 5px 0 2px"
+                >127</mj-social-element
+              >
+              <mj-social-element
+                padding="0 5px 0 12px"
+                src="https://raw.githubusercontent.com/c0derec0de/email_project/main/x16_eye_opened.png"
+                href="."
+                alt="views"
+                color="#737373"
+                >587</mj-social-element
+              >
+              <mj-social-element
+                padding="0 5px 0 12px"
+                src="https://raw.githubusercontent.com/c0derec0de/email_project/main/x16_comments.png"
+                href="."
+                alt="comments"
+                color="#737373"
+                >14</mj-social-element
+              >
+            </mj-social>
+          </mj-hero>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper padding="0 20px 20px">
+      <mj-section
+        padding="20px 20px"
+        background-color="#151515"
+        border-radius="16px"
+        border="1px solid #22222"
+      >
+        <mj-column padding="0">
+          <mj-text padding="0">
+              Вы получили это письмо, потому что вы зарегистрированы на сайте
+              nft.ru</br>
+              Вы всегда можете
+              <a href="." style="color: blue; text-decoration: underline"
+                >отписаться</a
+              >
+              от получения рассылок.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
