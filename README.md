@@ -7,4 +7,4 @@ email_table.mjml - с таблицами, более стабильная раз
 
 
 Прикол с темной темой:
-https://github.com/c0derec0de/email_project/blob/main/photo_2026-06-04_11-12-38.jpg
+https://raw.githubusercontent.com/c0derec0de/email_project/main/photo_2026-06-04_11-12-38.jpg
